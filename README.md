@@ -1,5 +1,9 @@
-# ONVIF-Java
+# ONVIFKt
 ---
+
+## TODO
+  - Change possible code to kotlin
+  - supports multiplatform (currently only JVM, Android is supported.)
 
 <p align="center"> 
 <img src="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/onvif-converted.png?itok=yqR6_a6G">
